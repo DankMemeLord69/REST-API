@@ -1,0 +1,12 @@
+{
+    "2": {
+        "id": 2,
+        "color": [
+            "green"
+        ],
+        "body_type": "hatchback",
+        "year": 2003,
+        "country": "RUS",
+        "name": "LADA ВАЗ(2109)"
+    }
+}
